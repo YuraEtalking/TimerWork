@@ -12,7 +12,7 @@
 Клонировать репозиторий:
 
 ```
-git clone 
+git clone https://github.com/YuraEtalking/TimerWork
 ```
 
 Cоздать и активировать виртуальное окружение:
